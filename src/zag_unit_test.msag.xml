@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZAG_UNIT_TEST</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>unit test</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_UNIT_TEST</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Hello world</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZAG_UNIT_TEST</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>with longtext</TEXT>
+    </T100>
+   </T100>
+   <LONGTEXTS>
+    <item>
+     <DOKIL>
+      <ID>NA</ID>
+      <OBJECT>ZAG_UNIT_TEST001</OBJECT>
+      <LANGU>E</LANGU>
+      <TYP>E</TYP>
+      <VERSION>0002</VERSION>
+      <MASTERLANG>X</MASTERLANG>
+      <TXTLINES>00039</TXTLINES>
+     </DOKIL>
+     <HEAD>
+      <TDOBJECT>DOKU</TDOBJECT>
+      <TDNAME>ZAG_UNIT_TEST001</TDNAME>
+      <TDID>NA</TDID>
+      <TDSPRAS>E</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00002</TDVERSION>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEAD>
+     <LINES>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;CAUSE&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;SYSTEM_RESPONSE&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>*</TDFORMAT>
+       <TDLINE>Jack Kirby (born Jacob Kurtzberg; August 28, 1917 – February 6, 1994)</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>was an American comic book artist, writer, and editor, widely regarded</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>as one of the medium&apos;s major innovators and one of its most prolific and</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>influential creators. He grew up in New York City, and learned to draw</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>cartoon figures by tracing characters from comic strips and editorial</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>cartoons. He entered the nascent comics industry in the 1930s, drawing</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>various comics features under different pen names, including Jack</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>Curtiss, before ultimately settling on Jack Kirby. In 1940, he and</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>writer-editor Joe Simon created the highly successful superhero</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>character Captain America for Timely Comics, predecessor of Marvel</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>Comics. During the 1940s, Kirby, regularly teamed with Simon, creating</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>numerous characters for that company and for National Comics</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>Publications, later to become DC Comics.</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>*</TDFORMAT>
+       <TDLINE>After serving in the European Theater in World War II, Kirby produced</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>work for DC&lt;(&gt;,&lt;)&gt; Harvey Comics&lt;(&gt;,&lt;)&gt; Hillman Periodicals, and other</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>publishers. At Crestwood Publications, he and Simon created the genre of</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>romance comicsand later founded their own short-lived comic company&lt;(&gt;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>=</TDFORMAT>
+       <TDLINE>,&lt;)&gt; Mainline Publications. Kirby was involved in Timely&apos;s 1950s</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>iteration&lt;(&gt;,&lt;)&gt; Atlas Comics, which in the next decade became Marvel.</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>There, in the 1960s, Kirby and writer-editor Stan Lee co-created many of</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>the company&apos;s major characters, including the Fantastic Four, the X-Men,</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>and the Hulk. The Lee–Kirby titles garnered high sales and critical</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>acclaim, but in 1970, feeling he had been treated unfairly, largely in</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>the realm of authorship credit and creators&apos; rights, Kirby left the</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>company for rival DC.</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>*</TDFORMAT>
+       <TDLINE>At DC, Kirby created his Fourth World saga, which spanned several comics</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>titles. While these series proved commercially unsuccessful and were</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>canceled, the Fourth World&apos;s New Gods have continued as a significant</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>part of the DC Universe. Kirby returned to Marvel briefly in the</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>mid-to-late 1970s, then ventured into television animation and</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>independent comics. In his later years, Kirby, who has been called &quot;the</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>William Blake of comics&quot;&lt;(&gt;,&lt;)&gt;[1]began receiving great recognition in</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>the mainstream press for his career accomplishments, and in 1987 he was</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>one of the three inaugural inductees of the Will Eisner Comic Book Hall</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>of Fame. In 2017, Kirby was posthumously named a Disney Legend with Lee</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>for their co-creations not only in the field of publishing, but also</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>because those creations formed the basis for Walt Disney Company&apos;s</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>financially and critically successful media franchise; the Marvel</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDLINE>Cinematic Universe.</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;WHAT_TO_DO&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>U1</TDFORMAT>
+       <TDLINE>&amp;SYS_ADMIN&amp;</TDLINE>
+      </TLINE>
+      <TLINE>
+       <TDFORMAT>AS</TDFORMAT>
+      </TLINE>
+     </LINES>
+    </item>
+   </LONGTEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
