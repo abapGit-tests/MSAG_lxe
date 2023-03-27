@@ -26,6 +26,32 @@
      <DOKIL>
       <ID>NA</ID>
       <OBJECT>ZAG_UNIT_TEST001</OBJECT>
+      <LANGU>D</LANGU>
+      <TYP>E</TYP>
+      <VERSION>0002</VERSION>
+      <TXTLINES>00001</TXTLINES>
+     </DOKIL>
+     <HEAD>
+      <TDOBJECT>DOKU</TDOBJECT>
+      <TDNAME>ZAG_UNIT_TEST001</TDNAME>
+      <TDID>NA</TDID>
+      <TDSPRAS>D</TDSPRAS>
+      <TDFORM>S_DOCU_SHOW</TDFORM>
+      <TDSTYLE>S_DOCUS1</TDSTYLE>
+      <TDVERSION>00002</TDVERSION>
+      <TDLINESIZE>072</TDLINESIZE>
+     </HEAD>
+     <LINES>
+      <TLINE>
+       <TDFORMAT>*</TDFORMAT>
+       <TDLINE>Jack Kirby (geboren Jacob Kurtzberg; August 28, 1917 – Februar 6, 1994)</TDLINE>
+      </TLINE>
+     </LINES>
+    </item>
+    <item>
+     <DOKIL>
+      <ID>NA</ID>
+      <OBJECT>ZAG_UNIT_TEST001</OBJECT>
       <LANGU>E</LANGU>
       <TYP>E</TYP>
       <VERSION>0002</VERSION>
@@ -192,6 +218,53 @@
      </LINES>
     </item>
    </LONGTEXTS>
+   <LXE_TEXTS>
+    <item>
+     <SOURCE_LANG>enUS</SOURCE_LANG>
+     <TARGET_LANG>deDE</TARGET_LANG>
+     <CUSTMNR>999999</CUSTMNR>
+     <OBJTYPE>MESS</OBJTYPE>
+     <OBJNAME>ZAG_UNIT_TEST       000</OBJNAME>
+     <TEXT_PAIRS>
+      <LXE_PCX_S1>
+       <TEXTKEY>TEXT</TEXTKEY>
+       <S_TEXT>Hello world</S_TEXT>
+       <T_TEXT>Hallo, Welt!</T_TEXT>
+       <UNITMLT>73</UNITMLT>
+      </LXE_PCX_S1>
+     </TEXT_PAIRS>
+    </item>
+    <item>
+     <SOURCE_LANG>enUS</SOURCE_LANG>
+     <TARGET_LANG>deDE</TARGET_LANG>
+     <CUSTMNR>999999</CUSTMNR>
+     <OBJTYPE>MESS</OBJTYPE>
+     <OBJNAME>ZAG_UNIT_TEST       001</OBJNAME>
+     <TEXT_PAIRS>
+      <LXE_PCX_S1>
+       <TEXTKEY>TEXT</TEXTKEY>
+       <S_TEXT>with longtext</S_TEXT>
+       <T_TEXT>mit Langtext</T_TEXT>
+       <UNITMLT>73</UNITMLT>
+      </LXE_PCX_S1>
+     </TEXT_PAIRS>
+    </item>
+    <item>
+     <SOURCE_LANG>enUS</SOURCE_LANG>
+     <TARGET_LANG>deDE</TARGET_LANG>
+     <CUSTMNR>999999</CUSTMNR>
+     <OBJTYPE>MSAG</OBJTYPE>
+     <OBJNAME>ZAG_UNIT_TEST</OBJNAME>
+     <TEXT_PAIRS>
+      <LXE_PCX_S1>
+       <TEXTKEY>STEXT</TEXTKEY>
+       <S_TEXT>unit test</S_TEXT>
+       <T_TEXT>Unit Test</T_TEXT>
+       <UNITMLT>60</UNITMLT>
+      </LXE_PCX_S1>
+     </TEXT_PAIRS>
+    </item>
+   </LXE_TEXTS>
   </asx:values>
  </asx:abap>
 </abapGit>
