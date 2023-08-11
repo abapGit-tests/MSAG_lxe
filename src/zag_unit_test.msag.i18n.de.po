@@ -1,0 +1,18 @@
+﻿#, fuzzy
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: MESS/ZAG_UNIT_TEST 000/TEXT, maxlen=73
+msgid "Hello world"
+msgstr ""
+
+#: MSAG/ZAG_UNIT_TEST/STEXT, maxlen=60
+msgid "unit test"
+msgstr ""
+
+#: MESS/ZAG_UNIT_TEST 001/TEXT, maxlen=73
+msgid "with longtext"
+msgstr ""
